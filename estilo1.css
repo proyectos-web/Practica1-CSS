@@ -1,0 +1,15 @@
+article .caja{
+    display:block; 
+    height:100px; 
+    width:100px; 
+    background:#FF9;
+    margin:0 auto;
+}
+#caja1{
+    -webkit-box-shadow:5px 5px 5px #888;
+    -Moz-box-shadow:5px 5px 5px #888;
+    box-shadow: 5px 5px 5px #888;
+}
+h2{
+    text-shadow: 2px 1px 1px #F20D0D;
+}
